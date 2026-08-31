@@ -30,3 +30,5 @@
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=DanielTsuruga&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
