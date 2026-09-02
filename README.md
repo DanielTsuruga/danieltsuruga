@@ -30,8 +30,14 @@
 
 -----
 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Eiji</code>, tenho 19 anos, moro em BH e mexo com programação desde os 17 anos de idade. Atualmente sou <code>estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍🎓
+<i><b>Olá!</b> :wave: Sou o <code>Daniel Eiji</code>, tenho 19 anos, moro em BH e programo por conta própria desde os 17. Estudei a minha vida escolar inteira no <code>Coleguium</code>, onde desenvolvi uma grande paixão pela área de exatas e pela <b>Matemática</b>. Esse gosto pela lógica foi o combustível para eu mergulhar no mundo do desenvolvimento de software e me apaixonar pela programação.</i>
+<br><br>
+<i>Atualmente, sou <code>estudante</code> do 2º período de <b>Engenharia de Software</b> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas (Coração Eucarístico)</a>. Meu foco total está em aprimorar minhas habilidades de código, dominar algoritmos e criar aplicações práticas para resolver problemas reais.</i> 👨‍💻
+<br><br>
+<i>🛠️ <b>Foco & Interesses:</b> Programação | Estrutura de Dados & Algoritmos | Desenvolvimento de Software | Lógica & Matemática Aplicada</i>
 </div>
 
 -----
