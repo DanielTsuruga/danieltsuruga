@@ -65,7 +65,7 @@
 </td>
 <td>
 <div>
-<img alt="Marceline" src="./images/marceline.gif" width="340px" height="650px"/>
+<img alt="Marceline" src="./img/marceline.gif" width="340px" height="650px"/>
 </div>
 </td>
 </tr>
