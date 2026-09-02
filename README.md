@@ -19,8 +19,8 @@
 </td>-->
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<!--<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
+<td><a href="https://discordapp.com/users/539094887094812673" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
