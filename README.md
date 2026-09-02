@@ -30,7 +30,7 @@
 
 -----
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/> Sobre mim:
 
 <div align="justify">
 <i><b>Olá!</b> :wave: Sou o <code>Daniel Eiji</code>, tenho 19 anos, moro em BH e programo por conta própria desde os 17. Estudei a minha vida escolar inteira no <code>Coleguium</code>, onde desenvolvi uma grande paixão pela área de exatas e pela <b>Matemática</b>. Esse gosto pela lógica foi o combustível para eu mergulhar no mundo do desenvolvimento de software e me apaixonar pela programação.</i>
@@ -38,6 +38,42 @@
 <i>Atualmente, sou <code>estudante</code> do 2º período de <b>Engenharia de Software</b> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas (Coração Eucarístico)</a>. Meu foco total está em aprimorar minhas habilidades de código, dominar algoritmos e criar aplicações práticas para resolver problemas reais.</i> 👨‍💻
 <br><br>
 <i>🛠️ <b>Foco & Interesses:</b> Programação | Estrutura de Dados & Algoritmos | Desenvolvimento de Software | Lógica & Matemática Aplicada</i>
+</div>
+
+-----
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/> Curiosidades sobre mim:
+
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+- :rooster: Fiel torcedor do <code>GALO DOIDO!</code>. 🖤🤍<br />
+- :soccer: Gosto de praticar esportes, principalmente <code>futebol</code>.<br />
+- :weight_lifting_man: Gosto bastante de <code>academia</code> também.<br />
+- :coffee: Até agora, a linguagem que mais me interessei foi <code>Python</code>.<br />
+- :tv: Minhas séries preferidas são Suits, Prison Break, Lupin e The Mentalist
+- :headphones: Sou um grande admirador da música, escuto de tudo e mais um pouco.<br />
+- :abacus: Gosto muito de <code>matemática</code>.<br />
+</p>
+</div>
+</td>
+<td>
+<div>
+<img alt="Marceline" src="./images/marceline.gif" width="340px" height="650px"/>
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
 </div>
 
 -----
