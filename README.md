@@ -30,6 +30,12 @@
 
 -----
 
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Eiji</code>, tenho 19 anos, moro em BH e mexo com programação desde os 17 anos de idade. Atualmente sou <code>estudante</code> de Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍🎓
+</div>
+
+-----
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@fbaf6465-11bf-4399-b298-8103c6d6d53f">WakaTime</a></td>
@@ -67,7 +73,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Daniel's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Eiji's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bqcdaootldxj0mp8dotntjx9q" alt="Data Card for Spotify"/>
 </details>
 </div>
